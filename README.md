@@ -1,16 +1,61 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inaijin.inaijin" />
 
-<!--
-**inaijin/inaijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=525&height=70&duration=4500&color=CFCFE1&background=FFFFFF00&lines=Welcome+to+my+GitHub+page!+%F0%9F%91%8B;I'm+Kourosh+!;Check+out+my+work+%F0%9F%92%BB" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate software developer from Iran 🇮🇷</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently studying at the **University of Tehran, Computer Engineering (CEUT)**
+ 
+ </div>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <div style="display: inline-block; text-align: center; vertical-align: top;">
+        <img src="https://skillicons.dev/icons?i=html,css,vscode,github,r,javascript" style="max-width: 100%;" />
+    </div>
+    <div style="display: inline-block; text-align: center; vertical-align: top; margin-top: 10px;">
+        <img src="https://skillicons.dev/icons?i=cplusplus,c,python,java,matlab,modelsim,quartus" style="max-width: 100%;" />
+    </div>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inaijin/inaijin/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center" style="background-color: #141321; padding: 20px;">
+  <table>
+    <tr>
+      <td align="center" valign="top" style="background-color: #141321;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=inaijin&theme=radical" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="background-color: #141321;">
+        <img src="https://github-readme-stats.vercel.app/api?username=inaijin&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaijin&theme=radical" alt="Top Langs" />
+        </a>
+</div>
+
+<hr/>
